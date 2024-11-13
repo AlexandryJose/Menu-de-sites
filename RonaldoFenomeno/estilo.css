@@ -1,0 +1,69 @@
+#introdução{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    border-style: initial;
+}
+#texto1{
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkslategrey;
+    padding: 4px;
+    border-radius: 20px;
+    border-style: groove;
+}
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230620/pngtree-soccer-field-backdrop-enhances-3d-rendering-of-stadium-image_3648068.jpg);
+    background-size: 1499px;
+    color: azure;
+}
+h2{
+    text-align: center; 
+    font-size: 27px;
+    background-color: darkslategrey;
+    border-radius: 20px;
+    border-style: groove;
+    font-family: sans-serif;
+    width: 250px;
+    margin: auto;
+
+}
+#balondor{
+    text-align: center;
+    margin: 35px;
+}
+#tabela{
+    text-align: center;
+    background-color: darkslategrey;
+    margin: auto;
+    border-collapse: collapse;
+    width: 320px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 2%;
+    font-family: sans-serif;
+}
+#tabela:hover{
+    background-image: url(https://i.pinimg.com/originals/20/12/fe/2012fe52da1527971f45bdb447b8a0b5.jpg);
+}
+#titulos{
+    margin: auto;
+    background-color: darkslategrey;
+    border-collapse: collapse;
+    width: 295px;
+    border: 1px solid rgb(255, 255, 255);
+    font-family: sans-serif;
+    border-radius: 5px;
+    
+}
+#titulos:hover{
+   background-image: url(https://i.pinimg.com/originals/20/12/fe/2012fe52da1527971f45bdb447b8a0b5.jpg);
+}
+
+#ronaldo{
+    text-align: center;
+    margin: 35px;
+}
+a{
+    width: 20px;
+}
