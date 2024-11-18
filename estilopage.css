@@ -62,4 +62,13 @@ background-image: url();
 color: khaki;
 text-shadow: 8px khaki, 0 0 12px khaki, 0 0 16px khaki;
 }
-
+#entrada {
+    text-align: center;
+    font-family: "Share Tech Mono", monospace;
+    color: khaki;
+    padding: 1rem;
+}
+footer a:hover {
+    color: khaki;
+    text-shadow: 8px khaki, 0 0 12px khaki, 0 0 16px khaki;
+}
