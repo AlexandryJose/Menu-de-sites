@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Rubik+Dirt&family=Rubik:ital,wght@0,300..900;1,300..900&family=Share+Tech+Mono&family=Silkscreen:wght@400;700&family=Tourney:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Rubik+Dirt&family=Rubik:ital,wght@0,300..900;1,300..900&family=Share+Tech+Mono&family=Silkscreen:wght@400;700&family=Tourney:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Bungee+Hairline&family=Geostar&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Monofett&family=Revalia&family=Rubik+Dirt&family=Rubik:ital,wght@0,300..900;1,300..900&family=Share+Tech+Mono&family=Silkscreen:wght@400;700&family=Tourney:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color:rgb(114, 2, 2);;
+    padding: 10rem;
+    background-image: url(foto_braid/fundoformulario.png);
+}
+#cadastro {
+    border-style: groove;
+    border-bottom: 3rem;
+    border-radius: 2rem;
+    background-color:  Thistle;
+    border-color:rgb(114, 2, 2);
+    border-collapse: collapse;
+    width: 24rem;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+
+}
+input[type="text"], [type="password"]{
+    width: 20rem;
+    background-color:rgba(114, 2, 2, 0.753) ;
+    padding: 0.5rem;
+    border: 2px solid rgb(114, 2, 2);
+    outline: none;
+    border-radius: 20px;
+}
+input[type="tel"], [type="email"]{
+    background-color:rgba(114, 2, 2, 0.753) ;
+    border-radius: 20px;
+    border: 2px solid rgb(114, 2, 2);
+    outline: none;
+    padding: 0.5rem;
+    width: 20rem;
+}
+button {
+    padding: 0.5rem;
+    background-color: white;
+    color:rgb(114, 2, 2);
+    border-color:rgb(114, 2, 2);
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+::placeholder {
+    color: white;
+}
+h2 {
+    text-align: center;
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   
+}   
+input{
+    text-align: center;
+}
+fieldset {
+    background-image: url(foto_braid/imagemfundofildset.png);
+    background-size: 37rem;
+    font-family: "Revalia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    border-style: ridge;
+    background-color: rgb(78, 1, 1);
+    color: rgb(255, 117, 117);
+}
+#titulo {
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+} 
+a {
+    text-decoration: none;
+    color:  rgb(78, 1, 1);
+    
+} 
+button {
+    background-color:  Thistle;
+}
